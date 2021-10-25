@@ -1,5 +1,6 @@
 {
     "name": "dmytroho/version-testing",
+    "description": "Short description",
     "type": "library",
     "authors": [
         {
