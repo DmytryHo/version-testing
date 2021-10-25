@@ -1,0 +1,11 @@
+{
+    "name": "dmytroho/version-testing",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Dmytro Hordinskyi",
+            "email": "dmytro.ho@onyx.com"
+        }
+    ],
+    "require": {}
+}
